@@ -1,0 +1,23 @@
+<div class="container-fluid">
+    <form [formGroup]="registroProducto">
+        <div class="row">
+            <div class="col-sm-6">
+                <label class="form-label">Nombre</label>
+                <input class="form-control" formControlName="nombre">
+            </div>
+            <div class="col-sm-6">
+                <label>Desrcipción</label>
+                <input class="form-control" formControlName="descripcion">
+            </div>
+            <div class="col-sm-6">
+                <label>Código</label>
+                <input class="form-control" formControlName="codigo">
+            </div>
+        </div>
+        <div class="row">
+            <div>
+                <button class="btn btn-primary" (click)="guardarProductos()">Guardar</button>
+            </div>
+        </div>
+    </form>
+</div>

@@ -1,0 +1,36 @@
+<div class="container-fluid">
+    <form [formGroup]="registroMovimiento">
+        <div class="row">
+            <!-- Producto -->
+            <div class="col-sm-6">
+                <label class="form-label">Producto</label>
+                <select class="form-control" formControlName="producto">
+                    <option [ngValue]="null">-Seleccione-</option>
+                    <option *ngFor="let producto of listaProductos" [ngValue]="producto">
+                        {{producto.descripcion}}
+                    </option>
+                </select>
+            </div>
+
+            <!-- Tipo Movimiento -->
+            <div class="col-sm-6">
+                <label>Tipo Movimiento</label>
+                <select class="form-control" formControlName="tipo">
+                    <option [ngValue]="null">-Seleccione-</option>
+                    <option *ngFor="let tipo of listaTipos" [ngValue]="tipo">
+                        {{tipo.descripcion}}
+                    </option>
+                </select>
+            </div>
+
+            <!-- Cantidad -->
+            <div class="col-sm-6">
+                <label>Cantidad</label>
+                <input class="form-control" type="number" formControlName="cantidad" min="1">
+            </div>
+        </div>
+
+        <!-- Botón Guardar -->
+        <button type="button" (click)="guardarMovimiento()" class="btn btn-primary">Guardar</button>
+    </form>
+</div>

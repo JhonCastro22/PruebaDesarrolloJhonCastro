@@ -1,0 +1,355 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jacastro\\Documents\\PruebaDesarrollo\\PruebaDesarrollo\\BackEnd\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE8201A2-DDAA-45D2-BE9B-78E503346F14}|BackEnd\\BackEnd.csproj|c:\\users\\jacastro\\documents\\pruebadesarrollo\\pruebadesarrollo\\backend\\backend\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE8201A2-DDAA-45D2-BE9B-78E503346F14}|BackEnd\\BackEnd.csproj|solutionrelative:backend\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE8201A2-DDAA-45D2-BE9B-78E503346F14}|BackEnd\\BackEnd.csproj|c:\\users\\jacastro\\documents\\pruebadesarrollo\\pruebadesarrollo\\backend\\backend\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE8201A2-DDAA-45D2-BE9B-78E503346F14}|BackEnd\\BackEnd.csproj|solutionrelative:backend\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE8201A2-DDAA-45D2-BE9B-78E503346F14}|BackEnd\\BackEnd.csproj|c:\\users\\jacastro\\documents\\pruebadesarrollo\\pruebadesarrollo\\backend\\backend\\controllers\\movimientocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE8201A2-DDAA-45D2-BE9B-78E503346F14}|BackEnd\\BackEnd.csproj|solutionrelative:backend\\controllers\\movimientocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE8201A2-DDAA-45D2-BE9B-78E503346F14}|BackEnd\\BackEnd.csproj|c:\\users\\jacastro\\documents\\pruebadesarrollo\\pruebadesarrollo\\backend\\backend\\controllers\\inventariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE8201A2-DDAA-45D2-BE9B-78E503346F14}|BackEnd\\BackEnd.csproj|solutionrelative:backend\\controllers\\inventariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE8201A2-DDAA-45D2-BE9B-78E503346F14}|BackEnd\\BackEnd.csproj|c:\\users\\jacastro\\documents\\pruebadesarrollo\\pruebadesarrollo\\backend\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE8201A2-DDAA-45D2-BE9B-78E503346F14}|BackEnd\\BackEnd.csproj|solutionrelative:backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE8201A2-DDAA-45D2-BE9B-78E503346F14}|BackEnd\\BackEnd.csproj|c:\\users\\jacastro\\documents\\pruebadesarrollo\\pruebadesarrollo\\backend\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EE8201A2-DDAA-45D2-BE9B-78E503346F14}|BackEnd\\BackEnd.csproj|solutionrelative:backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE8201A2-DDAA-45D2-BE9B-78E503346F14}|BackEnd\\BackEnd.csproj|c:\\users\\jacastro\\documents\\pruebadesarrollo\\pruebadesarrollo\\backend\\backend\\data\\backendcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE8201A2-DDAA-45D2-BE9B-78E503346F14}|BackEnd\\BackEnd.csproj|solutionrelative:backend\\data\\backendcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE8201A2-DDAA-45D2-BE9B-78E503346F14}|BackEnd\\BackEnd.csproj|c:\\users\\jacastro\\documents\\pruebadesarrollo\\pruebadesarrollo\\backend\\backend\\models\\tipomovimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE8201A2-DDAA-45D2-BE9B-78E503346F14}|BackEnd\\BackEnd.csproj|solutionrelative:backend\\models\\tipomovimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE8201A2-DDAA-45D2-BE9B-78E503346F14}|BackEnd\\BackEnd.csproj|c:\\users\\jacastro\\documents\\pruebadesarrollo\\pruebadesarrollo\\backend\\backend\\models\\movimientos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE8201A2-DDAA-45D2-BE9B-78E503346F14}|BackEnd\\BackEnd.csproj|solutionrelative:backend\\models\\movimientos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE8201A2-DDAA-45D2-BE9B-78E503346F14}|BackEnd\\BackEnd.csproj|c:\\users\\jacastro\\documents\\pruebadesarrollo\\pruebadesarrollo\\backend\\backend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EE8201A2-DDAA-45D2-BE9B-78E503346F14}|BackEnd\\BackEnd.csproj|solutionrelative:backend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE8201A2-DDAA-45D2-BE9B-78E503346F14}|BackEnd\\BackEnd.csproj|c:\\users\\jacastro\\documents\\pruebadesarrollo\\pruebadesarrollo\\backend\\backend\\models\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE8201A2-DDAA-45D2-BE9B-78E503346F14}|BackEnd\\BackEnd.csproj|solutionrelative:backend\\models\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE8201A2-DDAA-45D2-BE9B-78E503346F14}|BackEnd\\BackEnd.csproj|c:\\users\\jacastro\\documents\\pruebadesarrollo\\pruebadesarrollo\\backend\\backend\\models\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE8201A2-DDAA-45D2-BE9B-78E503346F14}|BackEnd\\BackEnd.csproj|solutionrelative:backend\\models\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE8201A2-DDAA-45D2-BE9B-78E503346F14}|BackEnd\\BackEnd.csproj|c:\\users\\jacastro\\documents\\pruebadesarrollo\\pruebadesarrollo\\backend\\backend\\models\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE8201A2-DDAA-45D2-BE9B-78E503346F14}|BackEnd\\BackEnd.csproj|solutionrelative:backend\\models\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE8201A2-DDAA-45D2-BE9B-78E503346F14}|BackEnd\\BackEnd.csproj|c:\\users\\jacastro\\documents\\pruebadesarrollo\\pruebadesarrollo\\backend\\backend\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE8201A2-DDAA-45D2-BE9B-78E503346F14}|BackEnd\\BackEnd.csproj|solutionrelative:backend\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE8201A2-DDAA-45D2-BE9B-78E503346F14}|BackEnd\\BackEnd.csproj|c:\\users\\jacastro\\documents\\pruebadesarrollo\\pruebadesarrollo\\backend\\backend\\migrations\\20250207165909_agregartipomovimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE8201A2-DDAA-45D2-BE9B-78E503346F14}|BackEnd\\BackEnd.csproj|solutionrelative:backend\\migrations\\20250207165909_agregartipomovimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE8201A2-DDAA-45D2-BE9B-78E503346F14}|BackEnd\\BackEnd.csproj|c:\\users\\jacastro\\documents\\pruebadesarrollo\\pruebadesarrollo\\backend\\backend\\migrations\\20250207150606_agregarrelacionproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE8201A2-DDAA-45D2-BE9B-78E503346F14}|BackEnd\\BackEnd.csproj|solutionrelative:backend\\migrations\\20250207150606_agregarrelacionproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{80454082-9ab8-47d4-af23-82bf6739e2a9}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{80454082-9ab8-47d4-af23-82bf6739e2a9}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1613416671:0:{71f361cc-493f-47c0-923f-f2570b6f8618}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:254354193:0:{71f361cc-493f-47c0-923f-f2570b6f8618}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\jacastro\\Documents\\PruebaDesarrollo\\PruebaDesarrollo\\BackEnd\\BackEnd\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "BackEnd\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\jacastro\\Documents\\PruebaDesarrollo\\PruebaDesarrollo\\BackEnd\\BackEnd\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "BackEnd\\Controllers\\UsuarioController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T02:30:06.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "C:\\Users\\jacastro\\Documents\\PruebaDesarrollo\\PruebaDesarrollo\\BackEnd\\BackEnd\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "BackEnd\\Controllers\\ProductoController.cs",
+              "ToolTip": "C:\\Users\\jacastro\\Documents\\PruebaDesarrollo\\PruebaDesarrollo\\BackEnd\\BackEnd\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "BackEnd\\Controllers\\ProductoController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAcwBIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T20:25:36.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\jacastro\\Documents\\PruebaDesarrollo\\PruebaDesarrollo\\BackEnd\\BackEnd\\appsettings.json",
+              "RelativeDocumentMoniker": "BackEnd\\appsettings.json",
+              "ToolTip": "C:\\Users\\jacastro\\Documents\\PruebaDesarrollo\\PruebaDesarrollo\\BackEnd\\BackEnd\\appsettings.json",
+              "RelativeToolTip": "BackEnd\\appsettings.json",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAgwAwAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-07T20:05:04.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MovimientoController.cs",
+              "DocumentMoniker": "C:\\Users\\jacastro\\Documents\\PruebaDesarrollo\\PruebaDesarrollo\\BackEnd\\BackEnd\\Controllers\\MovimientoController.cs",
+              "RelativeDocumentMoniker": "BackEnd\\Controllers\\MovimientoController.cs",
+              "ToolTip": "C:\\Users\\jacastro\\Documents\\PruebaDesarrollo\\PruebaDesarrollo\\BackEnd\\BackEnd\\Controllers\\MovimientoController.cs",
+              "RelativeToolTip": "BackEnd\\Controllers\\MovimientoController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwB8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T20:26:07.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InventarioController.cs",
+              "DocumentMoniker": "C:\\Users\\jacastro\\Documents\\PruebaDesarrollo\\PruebaDesarrollo\\BackEnd\\BackEnd\\Controllers\\InventarioController.cs",
+              "RelativeDocumentMoniker": "BackEnd\\Controllers\\InventarioController.cs",
+              "ToolTip": "C:\\Users\\jacastro\\Documents\\PruebaDesarrollo\\PruebaDesarrollo\\BackEnd\\BackEnd\\Controllers\\InventarioController.cs",
+              "RelativeToolTip": "BackEnd\\Controllers\\InventarioController.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAADwvxgAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T20:25:23.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jacastro\\Documents\\PruebaDesarrollo\\PruebaDesarrollo\\BackEnd\\BackEnd\\Program.cs",
+              "RelativeDocumentMoniker": "BackEnd\\Program.cs",
+              "ToolTip": "C:\\Users\\jacastro\\Documents\\PruebaDesarrollo\\PruebaDesarrollo\\BackEnd\\BackEnd\\Program.cs",
+              "RelativeToolTip": "BackEnd\\Program.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAswDcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T20:07:36.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BackEndContext.cs",
+              "DocumentMoniker": "C:\\Users\\jacastro\\Documents\\PruebaDesarrollo\\PruebaDesarrollo\\BackEnd\\BackEnd\\Data\\BackEndContext.cs",
+              "RelativeDocumentMoniker": "BackEnd\\Data\\BackEndContext.cs",
+              "ToolTip": "C:\\Users\\jacastro\\Documents\\PruebaDesarrollo\\PruebaDesarrollo\\BackEnd\\BackEnd\\Data\\BackEndContext.cs",
+              "RelativeToolTip": "BackEnd\\Data\\BackEndContext.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAzwAkAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T20:23:07.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TipoMovimiento.cs",
+              "DocumentMoniker": "C:\\Users\\jacastro\\Documents\\PruebaDesarrollo\\PruebaDesarrollo\\BackEnd\\BackEnd\\Models\\TipoMovimiento.cs",
+              "RelativeDocumentMoniker": "BackEnd\\Models\\TipoMovimiento.cs",
+              "ToolTip": "C:\\Users\\jacastro\\Documents\\PruebaDesarrollo\\PruebaDesarrollo\\BackEnd\\BackEnd\\Models\\TipoMovimiento.cs",
+              "RelativeToolTip": "BackEnd\\Models\\TipoMovimiento.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T16:54:38.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Movimientos.cs",
+              "DocumentMoniker": "C:\\Users\\jacastro\\Documents\\PruebaDesarrollo\\PruebaDesarrollo\\BackEnd\\BackEnd\\Models\\Movimientos.cs",
+              "RelativeDocumentMoniker": "BackEnd\\Models\\Movimientos.cs",
+              "ToolTip": "C:\\Users\\jacastro\\Documents\\PruebaDesarrollo\\PruebaDesarrollo\\BackEnd\\BackEnd\\Models\\Movimientos.cs",
+              "RelativeToolTip": "BackEnd\\Models\\Movimientos.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T16:50:37.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\jacastro\\Documents\\PruebaDesarrollo\\PruebaDesarrollo\\BackEnd\\BackEnd\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "BackEnd\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\jacastro\\Documents\\PruebaDesarrollo\\PruebaDesarrollo\\BackEnd\\BackEnd\\Properties\\launchSettings.json",
+              "RelativeToolTip": "BackEnd\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-09T19:33:12.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Productos.cs",
+              "DocumentMoniker": "C:\\Users\\jacastro\\Documents\\PruebaDesarrollo\\PruebaDesarrollo\\BackEnd\\BackEnd\\Models\\Productos.cs",
+              "RelativeDocumentMoniker": "BackEnd\\Models\\Productos.cs",
+              "ToolTip": "C:\\Users\\jacastro\\Documents\\PruebaDesarrollo\\PruebaDesarrollo\\BackEnd\\BackEnd\\Models\\Productos.cs",
+              "RelativeToolTip": "BackEnd\\Models\\Productos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T14:59:39.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Usuarios.cs",
+              "DocumentMoniker": "C:\\Users\\jacastro\\Documents\\PruebaDesarrollo\\PruebaDesarrollo\\BackEnd\\BackEnd\\Models\\Usuarios.cs",
+              "RelativeDocumentMoniker": "BackEnd\\Models\\Usuarios.cs",
+              "ToolTip": "C:\\Users\\jacastro\\Documents\\PruebaDesarrollo\\PruebaDesarrollo\\BackEnd\\BackEnd\\Models\\Usuarios.cs",
+              "RelativeToolTip": "BackEnd\\Models\\Usuarios.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T21:11:35.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Inventario.cs",
+              "DocumentMoniker": "C:\\Users\\jacastro\\Documents\\PruebaDesarrollo\\PruebaDesarrollo\\BackEnd\\BackEnd\\Models\\Inventario.cs",
+              "RelativeDocumentMoniker": "BackEnd\\Models\\Inventario.cs",
+              "ToolTip": "C:\\Users\\jacastro\\Documents\\PruebaDesarrollo\\PruebaDesarrollo\\BackEnd\\BackEnd\\Models\\Inventario.cs",
+              "RelativeToolTip": "BackEnd\\Models\\Inventario.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T14:59:21.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DefaultController.cs",
+              "DocumentMoniker": "C:\\Users\\jacastro\\Documents\\PruebaDesarrollo\\PruebaDesarrollo\\BackEnd\\BackEnd\\Controllers\\DefaultController.cs",
+              "RelativeDocumentMoniker": "BackEnd\\Controllers\\DefaultController.cs",
+              "ToolTip": "C:\\Users\\jacastro\\Documents\\PruebaDesarrollo\\PruebaDesarrollo\\BackEnd\\BackEnd\\Controllers\\DefaultController.cs",
+              "RelativeToolTip": "BackEnd\\Controllers\\DefaultController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T20:14:49.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20250207165909_AgregarTipoMovimiento.cs",
+              "DocumentMoniker": "C:\\Users\\jacastro\\Documents\\PruebaDesarrollo\\PruebaDesarrollo\\BackEnd\\BackEnd\\Migrations\\20250207165909_AgregarTipoMovimiento.cs",
+              "RelativeDocumentMoniker": "BackEnd\\Migrations\\20250207165909_AgregarTipoMovimiento.cs",
+              "ToolTip": "C:\\Users\\jacastro\\Documents\\PruebaDesarrollo\\PruebaDesarrollo\\BackEnd\\BackEnd\\Migrations\\20250207165909_AgregarTipoMovimiento.cs",
+              "RelativeToolTip": "BackEnd\\Migrations\\20250207165909_AgregarTipoMovimiento.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T16:59:09.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20250207150606_AgregarRelacionProducto.cs",
+              "DocumentMoniker": "C:\\Users\\jacastro\\Documents\\PruebaDesarrollo\\PruebaDesarrollo\\BackEnd\\BackEnd\\Migrations\\20250207150606_AgregarRelacionProducto.cs",
+              "RelativeDocumentMoniker": "BackEnd\\Migrations\\20250207150606_AgregarRelacionProducto.cs",
+              "ToolTip": "C:\\Users\\jacastro\\Documents\\PruebaDesarrollo\\PruebaDesarrollo\\BackEnd\\BackEnd\\Migrations\\20250207150606_AgregarRelacionProducto.cs",
+              "RelativeToolTip": "BackEnd\\Migrations\\20250207150606_AgregarRelacionProducto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T15:06:07.086Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
